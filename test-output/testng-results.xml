@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="75551" started-at="2022-08-08T17:47:35 GST" finished-at="2022-08-08T17:48:51 GST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="75551" started-at="2022-08-08T17:47:35 GST" finished-at="2022-08-08T17:48:51 GST">
+      <class name="Healthmanagement.Test.Healthtest">
+        <test-method status="PASS" signature="report()[pri:0, instance:Healthmanagement.Test.Healthtest@1f99a05]" name="report" is-config="true" duration-ms="796" started-at="2022-08-08T17:47:35 GST" finished-at="2022-08-08T17:47:36 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Healthmanagement.Test.Healthtest@1f99a05]" name="setup" is-config="true" duration-ms="62148" started-at="2022-08-08T17:47:36 GST" finished-at="2022-08-08T17:48:38 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="band()[pri:0, instance:Healthmanagement.Test.Healthtest@1f99a05]" name="band" duration-ms="8632" started-at="2022-08-08T17:48:38 GST" finished-at="2022-08-08T17:48:47 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- band -->
+        <test-method status="PASS" signature="Homevalidation()[pri:1, instance:Healthmanagement.Test.Healthtest@1f99a05]" name="Homevalidation" duration-ms="186" started-at="2022-08-08T17:48:47 GST" finished-at="2022-08-08T17:48:47 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homevalidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Healthmanagement.Test.Healthtest@1f99a05]" name="tearDown" is-config="true" duration-ms="2452" started-at="2022-08-08T17:48:47 GST" finished-at="2022-08-08T17:48:49 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:Healthmanagement.Test.Healthtest@1f99a05]" name="testClosure" is-config="true" duration-ms="1197" started-at="2022-08-08T17:48:49 GST" finished-at="2022-08-08T17:48:51 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+      </class> <!-- Healthmanagement.Test.Healthtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
